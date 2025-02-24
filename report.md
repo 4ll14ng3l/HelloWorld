@@ -5,3 +5,5 @@
 - 17h39: pedido de licença estudantil enviado para education.github.com e tal e tal
 - 17h46: pedido negado por conta de umas informações incompletas e incorretas (nome). informações atualizadas, enviando outra aplicação estudantil agora
 - 17h50: aplicação para licensa estudantil enviada novamente
+- 18h01: conta no roadmap criada
+- 18h09: roadmap analisado e itens selecionados (ou não)
