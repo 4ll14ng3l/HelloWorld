@@ -1,4 +1,5 @@
 ### 24.02.2025
+#### realizado com gustavinho
 - 17h18: cadastro githu8 realizado
 - 17h21: repo criado
 - 17h27: readme.md criado e feito e tal
